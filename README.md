@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mehulaggarwal09</h1>
+<h1 align="center">Hi 👋, I'm Mehul Aggarwal </h1>
 <h3 align="center">A passionate Aspiring Data Analyst | Data & AI Enthusiast from India</h3>
 
 * 🎓 B.Tech Graduate
